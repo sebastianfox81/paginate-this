@@ -5,7 +5,6 @@ function App() {
 
   const { loading, data } = useFetch();
 
-  console.log(data)
 
   return (
     <main>
